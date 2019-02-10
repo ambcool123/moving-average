@@ -2,3 +2,5 @@
 /target/
 .classpath
 pom.properties
+.project
+.settings
